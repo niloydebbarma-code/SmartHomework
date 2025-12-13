@@ -1,0 +1,7 @@
+{
+  "name": "SmartHomework",
+  "description": "AI-powered homework correction tool with visual error marking and accessibility features using Gemini 3.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
