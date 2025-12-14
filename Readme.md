@@ -25,7 +25,7 @@
 | **09:00-26:00** | **Visual Error Detection** | **Gemini 3 Pro Vision** analyzes a handwritten math image. Notice the **Red Bounding Box** appearing automatically on the specific error coordinate. |
 | **27:00-56:00** | **Video Tutor** | The AI analyzes a YouTube video without captions. It correlates the visual diagrams on the whiteboard with the audio to explain the context. |
 | **57:00-1:31** | **Math Lab (Code Engine)** | Instead of guessing, the AI writes and executes **Python Code** to solve math. Notice the graph being generated and rendered in real-time via SVG. |
-| **1:31-1:48** | **Exam Simulator** | "Strict Mode" is enabled. This creates a timed, proctored environment using your uploaded notes as context, with an independent grading audit at the end. |
+| **1:31-1:48** | **Exam Simulator** | Shows the Exam Simulator configuration interface. Users can upload notes as context and choose between 'Study Mode' (Tutor) or 'Strict Mode' (Timed/Proctored).  |
 
 ---
 
